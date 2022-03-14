@@ -16,6 +16,11 @@
                   java -jar SpringBootForm-1.0.jar
                   
                   
+  
+  **Application URL :**
+                    http://localhost:8080/
+                  
+                  
                   
                   
 
